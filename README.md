@@ -1,12 +1,18 @@
 # GlobalCO2EmissionPrediction
 
+## Dataset preview
+"Emission by Country" from Kaggle: https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022
+
+- 11 columns and 63000 rows (reduced to around 3000 for our purpose)
+- Time series analysis
+
 ## Goal
 
-- To design a time-series based regression model that predicts the total emissions for differnt countries in the next 10 years.
+To design a time-series based regression model that predicts the total emissions for differnt countries in the next 10 years.
 
-## Motivation step
+## (Preliminary) Motivation step
 
-- Visualize the total emission based on input features (one is time) for two countries using Tableau.
+Visualize the total emission based on input features (one is time) for two countries using Tableau.
 
 ## Problem statement 
 
