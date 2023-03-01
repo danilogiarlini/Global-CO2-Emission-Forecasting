@@ -15,11 +15,11 @@ Ajay Krishna & Danilo Giarlini
 Multivariate Time series 
 
 #### Framework used
-Vector Autoregression
+Vector Autoregression (VAR)
 
 ## Goal
 
-To design a mulstivariable time-series model that predicts the total emissions for different countries in the next 10 years.
+Design a multivariable time-series model that predicts the total emissions for different countries in the next 10 years.
 
 ## (Preliminary) Motivation step
 
@@ -38,10 +38,9 @@ Pick 10 categories (3 developed countries, 3 developing countries, 3 under devel
 
 1. Explore the data.
 2. Select the data for 10 categories mentioned above.
-3. Explore ARIMA model. Check whether the dataset fits the assumptions required in ARIMA.
-4. Look into LSTM for forecasting if the ARIMA assumptions are not satisfied.
 
 ### 01.03.23
 
-1. Implementing VAR in python for one country.
-2. Write a for loop and check if the approach work for all the selected countries
+1. Check if the dataset satisfies the prerequired tests of VAR.
+2. Implement VAR in python for one country (one of the subdatasets).
+3. Write a for loop and check if the approach work for all the selected countries
