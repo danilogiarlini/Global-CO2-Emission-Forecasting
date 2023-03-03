@@ -287,6 +287,20 @@
       <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' rowDisplayCount='100' show-structure='true' />
       <style>
         <style-rule element='mark'>
+          <encoding attr='color' field='[Developed]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Global&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Underdeveloped countries&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Developing countries&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Developed countries&quot;</bucket>
+            </map>
+          </encoding>
           <encoding attr='color' field='[:Measure Names]' type='palette'>
             <map to='#26897e'>
               <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Oil:qk]&quot;</bucket>
@@ -353,20 +367,6 @@
             </map>
             <map to='#ff9da7'>
               <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[__tableau_internal_object_id__].[cnt:GCB2022v27_MtCO2_flat.csv_F2228B0E7EEF42B383CECEF77E501214:qk]&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[Developed]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>&quot;Global&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;Underdeveloped countries&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;Developing countries&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;Developed countries&quot;</bucket>
             </map>
           </encoding>
           <encoding attr='color' field='[none:Country:nk]' palette='tableau20_10_0' type='palette'>
@@ -2778,8 +2778,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='16' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='15' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='20' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='19' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='3' is-fixed='true' name='Co2 per Source per Yearbin' w='27121' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
