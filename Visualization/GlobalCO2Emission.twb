@@ -998,6 +998,74 @@
               <bucket>&quot;Switzerland&quot;</bucket>
             </map>
           </encoding>
+          <encoding attr='color' field='[:Measure Names]' palette='nuriel_stone_10_0' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[attr:Oil:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Oil:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[none:Oil:qk]&quot;</bucket>
+            </map>
+            <map to='#55ad89'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Oil:qk]&quot;</bucket>
+            </map>
+            <map to='#5c6068'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Coal:qk]&quot;</bucket>
+            </map>
+            <map to='#5c6068'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Coal:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Total:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[cnt:Total:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[max:Total:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[med:Total:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Total:qk]&quot;</bucket>
+            </map>
+            <map to='#9c755f'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Flaring:qk]&quot;</bucket>
+            </map>
+            <map to='#a3cce9'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Gas:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Per Capita:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[max:Per Capita:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[med:Per Capita:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Per Capita:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Other:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Cement:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Gas:qk]&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[__tableau_internal_object_id__].[cnt:GCB2022v27_MtCO2_flat.csv_F2228B0E7EEF42B383CECEF77E501214:qk]&quot;</bucket>
+            </map>
+          </encoding>
           <encoding attr='color' field='[none:Country:nk]' palette='tableau20_10_0' type='palette'>
             <map to='#000000'>
               <bucket>&quot;Global&quot;</bucket>
@@ -1696,74 +1764,6 @@
               <bucket>&quot;Ukraine&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[:Measure Names]' palette='nuriel_stone_10_0' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[attr:Oil:qk]&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Oil:qk]&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[none:Oil:qk]&quot;</bucket>
-            </map>
-            <map to='#55ad89'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Oil:qk]&quot;</bucket>
-            </map>
-            <map to='#5c6068'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Coal:qk]&quot;</bucket>
-            </map>
-            <map to='#5c6068'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Coal:qk]&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Total:qk]&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[cnt:Total:qk]&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[max:Total:qk]&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[med:Total:qk]&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Total:qk]&quot;</bucket>
-            </map>
-            <map to='#9c755f'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Flaring:qk]&quot;</bucket>
-            </map>
-            <map to='#a3cce9'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Gas:qk]&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[avg:Per Capita:qk]&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[max:Per Capita:qk]&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[med:Per Capita:qk]&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Per Capita:qk]&quot;</bucket>
-            </map>
-            <map to='#edc948'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Other:qk]&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd]&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Cement:qk]&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Gas:qk]&quot;</bucket>
-            </map>
-            <map to='#ff9da7'>
-              <bucket>&quot;[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[__tableau_internal_object_id__].[cnt:GCB2022v27_MtCO2_flat.csv_F2228B0E7EEF42B383CECEF77E501214:qk]&quot;</bucket>
-            </map>
-          </encoding>
         </style-rule>
       </style>
       <semantic-values>
@@ -2034,7 +2034,6 @@
             <encodings>
               <lod column='[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[none:Country:nk]' />
               <color column='[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Total:qk]' />
-              <text column='[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Total:qk]' />
               <geometry column='[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[Geometry (generated)]' />
             </encodings>
             <style>
@@ -2042,7 +2041,7 @@
                 <format attr='mark-labels-cull' value='false' />
                 <format attr='mark-labels-mode' value='selection' />
                 <format attr='size' value='0.86756908893585205' />
-                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-show' value='false' />
               </style-rule>
             </style>
           </pane>
@@ -2234,7 +2233,7 @@
       </viewpoint>
       <simple-id uuid='{41F0E40B-BB3B-497D-B1C0-734446594755}' />
     </window>
-    <window class='worksheet' maximized='true' name='Map'>
+    <window class='worksheet' name='Map'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -2342,7 +2341,7 @@
       </viewpoint>
       <simple-id uuid='{7A93C2D8-581E-4BB9-B075-7BE36E852BF7}' />
     </window>
-    <window class='worksheet' name='Total emission/Countries'>
+    <window class='worksheet' maximized='true' name='Total emission/Countries'>
       <cards>
         <edge name='left'>
           <strip size='160'>
