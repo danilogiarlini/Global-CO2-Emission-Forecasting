@@ -2136,6 +2136,12 @@
           <style-rule element='axis'>
             <format attr='title' class='0' field='[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[sum:Total:qk]' scope='rows' value='Total emission (metric tons)' />
           </style-rule>
+          <style-rule element='cell'>
+            <format attr='cell-w' value='54' />
+            <format attr='cell-h' value='18' />
+            <format attr='cell' value='18' />
+            <format attr='cell-q' value='90' />
+          </style-rule>
         </style>
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
@@ -2313,17 +2319,17 @@
             <card type='marks' />
           </strip>
         </edge>
-        <edge name='top'>
-          <strip size='2147483647'>
-            <card type='columns' />
-          </strip>
-          <strip size='2147483647'>
-            <card type='rows' />
-          </strip>
-        </edge>
         <edge name='right'>
           <strip size='160'>
             <card pane-specification-id='0' param='[federated.0e8f5sq0rjmj2o0zof0ir1un6tpd].[none:Country:nk]' type='color' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='columns' />
           </strip>
         </edge>
       </cards>
