@@ -42,7 +42,7 @@ Pick 10 categories (3 developed countries, 3 developing countries, 3 under devel
 ### Day 2
 
 1. Check if the dataset satisfies the prerequired tests of VAR (Granger’s Causality Test and Cointegration test). If the tests are failing, try dropping some columns or try trimming the data (as an example). And then, run the tests again.
-3. Implement VAR in python for one country (one of the subdatasets).
+2. Implement VAR in python for one country (one of the subdatasets).
 
 ### Day 3
 
@@ -62,8 +62,8 @@ Pick 10 categories (3 developed countries, 3 developing countries, 3 under devel
 
 ### Day 5-7
 
-1. Further improvements and learning.
+Further improvements and learning.
 
 ### Day 7
 
-1. Presentation of results and insights.
+Presentation of results and insights.
