@@ -1,6 +1,6 @@
-# GlobalCO2EmissionPrediction
+# Global CO2 emission forecasting
 
-## Project overview
+## Project Overview
 
 #### Team
 Ajay Krishna & Danilo Giarlini
